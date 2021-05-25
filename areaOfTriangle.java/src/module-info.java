@@ -1,0 +1,2 @@
+module areaOfTriangle.java {
+}

@@ -1,0 +1,2 @@
+module renamefile.java {
+}
